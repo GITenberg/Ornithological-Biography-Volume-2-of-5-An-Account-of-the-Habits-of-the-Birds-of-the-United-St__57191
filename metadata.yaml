@@ -1,5 +1,8 @@
 _repo: Ornithological-Biography-Volume-2-of-5-An-Account-of-the-Habits-of-the-Birds-of-the-United-St__57191
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Audubon, John James
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '41878'
     url: http://www.gutenberg.org/2009/agents/41878
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57191#Ornithological-Biography-Volume-2-of-5-An-Account-of-the-Habits-of-the-Birds-of-the-United-St_
 gutenberg_issued: '2018-05-21'
 gutenberg_type: Text
 identifiers:
